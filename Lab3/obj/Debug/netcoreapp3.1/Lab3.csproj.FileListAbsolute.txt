@@ -1,0 +1,15 @@
+E:\WorkSpace\C#\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.exe
+E:\WorkSpace\C#\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.deps.json
+E:\WorkSpace\C#\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.json
+E:\WorkSpace\C#\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.dev.json
+E:\WorkSpace\C#\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.dll
+E:\WorkSpace\C#\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.pdb
+E:\WorkSpace\C#\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.Form1.resources
+E:\WorkSpace\C#\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.GenerateResource.cache
+E:\WorkSpace\C#\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfoInputs.cache
+E:\WorkSpace\C#\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfo.cs
+E:\WorkSpace\C#\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.CoreCompileInputs.cache
+E:\WorkSpace\C#\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.dll
+E:\WorkSpace\C#\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.pdb
+E:\WorkSpace\C#\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.genruntimeconfig.cache
+E:\WorkSpace\C#\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.AssemblyReference.cache
